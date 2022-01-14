@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <>
       <footer>
-        © Ganesh Birajdar.
+        © Ganesh Birajdar.&nbsp;
         <a
           href="https://github.com/ganeshbirajdar09"
           target="_blank"

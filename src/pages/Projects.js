@@ -30,6 +30,17 @@ const Projects = () => {
           live="https://ganeshbirajdar09.github.io/expense_tracker/"
         />
       </Col>
+      <p className="text-center mt-5 mb-0 pb-0 bg-primary text-white">
+        More Projects at my &nbsp;
+        <a
+          rel="noreferrer"
+          target="_blank"
+          href="https://github.com/ganeshbirajdar09?tab=repositories"
+        >
+          Github&nbsp;
+          <i className="fa fa-github"></i>
+        </a>
+      </p>
     </>
   );
 };
